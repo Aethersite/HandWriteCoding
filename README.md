@@ -85,7 +85,7 @@ Example:
 
 ## License
 
-This project is provided as-is for personal and educational use.
+MIT - LICENSE
 
 ## Contributing
 
